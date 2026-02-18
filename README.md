@@ -5,8 +5,8 @@ A modern, responsive portfolio website built to showcase my projects, skills, an
 
 ## Live Demo
 
- Live Site: https://your-live-link.com  
- Repository: https://github.com/yourusername/portfolio  
+ Live Site: https://isinkaye-praise.vercel.app/  
+ Repository: https://github.com/Bebe-dev/Isinkaye-Praise  
 
 
 ##  Features
