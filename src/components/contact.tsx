@@ -26,7 +26,7 @@ export default function Contact() {
           transition={{ duration: 1 }} className="my-4">
           <a href={`tel:${CONTACT.phoneNumber}`}>{CONTACT.phoneNumber}</a>
         </motion.p>
-        <a href="mailto:chukskitchen@email.com" className="border-b">
+        <a href="mailto:praiseisinkaye@email.com" className="border-b">
           {CONTACT.email}
         </a>
       </div>
