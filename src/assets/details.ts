@@ -12,7 +12,8 @@ export const PROJECTS = [
     image: "images/charitfix.png",
     link: "https://charitfix.netlify.app",
     repo: " https://github.com/Bebe-dev/Charitfix",
-    description: "A platform for managing charitable donations and tracking impact",
+    description:
+      "A platform for managing charitable donations and tracking impact",
     technologies: ["React", "Tailwind CSS", "Chakra UI", "Firebase"],
   },
   {
@@ -28,14 +29,15 @@ export const PROJECTS = [
     image: "images/erasmus.png",
     link: "https://hotel-booking-jet-six.vercel.app/",
     repo: "https://github.com/Bebe-dev/Hotel-Booking",
-    description: "A platform for managing housing applications for landlords and tenants",
+    description:
+      "A platform for managing housing applications for landlords and tenants",
     technologies: ["React", "Tailwind CSS", "Chakra UI", "Firebase"],
   },
 ];
 
 
-export const EXPERIENCE = [
-    {}
-]
-
-export const CONTACT = {address: "Obafemi Awolowo University, Osun State", phoneNumber: "08145875648", email: "praiseisinkaye@gmail.com"}
+export const CONTACT = {
+  address: "Obafemi Awolowo University, Osun State",
+  phoneNumber: "08145875648",
+  email: "praiseisinkaye@gmail.com",
+};

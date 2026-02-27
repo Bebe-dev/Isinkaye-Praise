@@ -28,7 +28,7 @@ export default function Projects() {
                 height={250}
                 className="mb-6 rounded"
               />
-              <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-start items-center w-[250px] gap-2 top-0 bottom-0 left-0 right-0 bg-black/60 p-4">
+              <div className="absolute inset-0 md:opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-start items-center w-[250px] gap-2 top-0 bottom-0 left-0 right-0 bg-black/60 p-4">
                 <a
                   href={project.link}
                   target="_blank"
@@ -51,7 +51,7 @@ export default function Projects() {
               whileInView={{ opacity: 1, x: 0 }}
               initial={{ opacity: 0, x: 100 }}
               transition={{ duration: 1 }}
-              className="w-full max-w-xl lg:-3/4"
+              className="w-full max-w-xl lg:w-3/4"
             >
               <h3 className="mb-2 font-semibold text-2xl">{project.title}</h3>
               <p className="mb-4 text-stone-400">{project.description}</p>

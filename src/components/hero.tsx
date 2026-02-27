@@ -65,7 +65,7 @@ export default function Hero() {
             </motion.p>
             <motion.a
               variants={childVariants}
-              href="/PRAISE_CV.pdf"
+              href="/ISINKAYE PRAISE.docx.pdf"
               target="_blank"
               rel="noopener noreferrer"
               download

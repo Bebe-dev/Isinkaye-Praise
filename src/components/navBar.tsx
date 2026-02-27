@@ -14,7 +14,7 @@ export default function NavBar() {
       </div>
       <div className="m-8 flex justify-center items-center gap-4 text-2xl">
         <a
-          href="https://www.linkedin.com/in/isinkaye-praise-657632220?"
+          href="https://www.linkedin.com/in/isinkaye-praise"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="LinkedIn"
